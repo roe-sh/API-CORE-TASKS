@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|c:\\users\\orange\\desktop\\api-core-tasks\\asp.nettasknew\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|c:\\users\\orange\\desktop\\api-core-tasks\\asp.nettasknew\\dtos\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|solutionrelative:dtos\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|c:\\users\\orange\\desktop\\api-core-tasks\\asp.nettasknew\\dtos\\userrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|solutionrelative:dtos\\userrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|c:\\users\\orange\\desktop\\api-core-tasks\\asp.nettasknew\\dtos\\passwordhash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|solutionrelative:dtos\\passwordhash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|c:\\users\\orange\\desktop\\api-core-tasks\\asp.nettasknew\\dtos\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|solutionrelative:dtos\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|c:\\users\\orange\\desktop\\api-core-tasks\\asp.nettasknew\\dtos\\categoriesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|solutionrelative:dtos\\categoriesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|c:\\users\\orange\\desktop\\api-core-tasks\\asp.nettasknew\\dtos\\cartitemputrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|solutionrelative:dtos\\cartitemputrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|c:\\users\\orange\\desktop\\api-core-tasks\\asp.nettasknew\\dtos\\cartitemresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|solutionrelative:dtos\\cartitemresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|c:\\users\\orange\\desktop\\api-core-tasks\\asp.nettasknew\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|c:\\users\\orange\\desktop\\api-core-tasks\\asp.nettasknew\\dtos\\productsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|solutionrelative:dtos\\productsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|c:\\users\\orange\\desktop\\api-core-tasks\\asp.nettasknew\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|solutionrelative:models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|c:\\users\\orange\\desktop\\api-core-tasks\\asp.nettasknew\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|c:\\users\\orange\\desktop\\api-core-tasks\\asp.nettasknew\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|c:\\users\\orange\\desktop\\api-core-tasks\\asp.nettasknew\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|c:\\users\\orange\\desktop\\api-core-tasks\\asp.nettasknew\\controllers\\cartitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|solutionrelative:controllers\\cartitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|c:\\users\\orange\\desktop\\api-core-tasks\\asp.nettasknew\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|c:\\users\\orange\\desktop\\api-core-tasks\\asp.nettasknew\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|c:\\users\\orange\\desktop\\api-core-tasks\\asp.nettasknew\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|c:\\users\\orange\\desktop\\api-core-tasks\\asp.nettasknew\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|c:\\users\\orange\\desktop\\api-core-tasks\\asp.nettasknew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CB4E73-A629-4297-817A-FB986086E1B8}|Asp.netTaskNew.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "userRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\DTOs\\userRequestDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\userRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\DTOs\\userRequestDTO.cs",
+              "RelativeToolTip": "DTOs\\userRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:01:47.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\DTOs\\ProductResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProductResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\DTOs\\ProductResponseDTO.cs",
+              "RelativeToolTip": "DTOs\\ProductResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T20:25:50.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartItemResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\DTOs\\CartItemResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\CartItemResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\DTOs\\CartItemResponseDTO.cs",
+              "RelativeToolTip": "DTOs\\CartItemResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T20:21:46.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "categoriesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\DTOs\\categoriesDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\categoriesDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\DTOs\\categoriesDTO.cs",
+              "RelativeToolTip": "DTOs\\categoriesDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T01:52:47.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\DTOs\\UsersDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\UsersDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\DTOs\\UsersDTO.cs",
+              "RelativeToolTip": "DTOs\\UsersDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T02:12:07.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAALYAAAAAAAAAAAAcwMsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T06:50:17.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PasswordHash.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\DTOs\\PasswordHash.cs",
+              "RelativeDocumentMoniker": "DTOs\\PasswordHash.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\DTOs\\PasswordHash.cs",
+              "RelativeToolTip": "DTOs\\PasswordHash.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:02:51.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "cartitemputrequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\DTOs\\cartitemputrequestDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\cartitemputrequestDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\DTOs\\cartitemputrequestDTO.cs",
+              "RelativeToolTip": "DTOs\\cartitemputrequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T20:48:35.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "DTOs\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:03:39.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "productsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\DTOs\\productsDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\productsDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\DTOs\\productsDTO.cs",
+              "RelativeToolTip": "DTOs\\productsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T01:54:30.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "Models\\MyDbContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAnwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T06:47:41.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T06:49:42.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T06:49:09.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBcAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T09:00:39.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartItems.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\Controllers\\CartItems.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartItems.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\Controllers\\CartItems.cs",
+              "RelativeToolTip": "Controllers\\CartItems.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T19:52:50.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T06:50:47.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBQwAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T08:14:50.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T08:08:03.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-25T06:48:25.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAIBJwBYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T06:47:56.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
