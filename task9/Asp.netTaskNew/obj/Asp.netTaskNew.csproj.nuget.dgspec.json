@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\task9\\Asp.netTaskNew\\Asp.netTaskNew.csproj": {}
+    "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\Asp.netTaskNew.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\task9\\Asp.netTaskNew\\Asp.netTaskNew.csproj": {
+    "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\Asp.netTaskNew.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\task9\\Asp.netTaskNew\\Asp.netTaskNew.csproj",
+        "projectUniqueName": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\Asp.netTaskNew.csproj",
         "projectName": "Asp.netTaskNew",
-        "projectPath": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\task9\\Asp.netTaskNew\\Asp.netTaskNew.csproj",
+        "projectPath": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\Asp.netTaskNew.csproj",
         "packagesPath": "C:\\Users\\Orange\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\task9\\Asp.netTaskNew\\obj\\",
+        "outputPath": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\Asp.netTaskNew\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

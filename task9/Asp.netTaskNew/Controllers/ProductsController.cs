@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Asp.netTaskNew.Models;
 using Asp.netTaskNew.DTOs.Task4.DTO;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Asp.netTaskNew.Controllers
 {
@@ -20,6 +21,16 @@ namespace Asp.netTaskNew.Controllers
         {
             _db = db;
         }
+
+
+        [Authorize]
+        [HttpGet("products")]
+        public IActionResult GetProducts()
+        {
+            var products = _db.Products.ToList();
+            return Ok(products);
+        }
+
 
         [HttpGet]
         public IActionResult GetAll()

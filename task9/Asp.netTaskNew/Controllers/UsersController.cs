@@ -9,6 +9,11 @@ using Asp.netTaskNew.Models;
 using Asp.netTaskNew.DTOs;
 using System.Reflection.PortableExecutable;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.IdentityModel.Tokens;
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
+using System.Text;
+using System.Configuration;
 
 namespace Asp.netTaskNew.Controllers
 {
@@ -16,11 +21,12 @@ namespace Asp.netTaskNew.Controllers
     [ApiController]
     public class UsersController : ControllerBase
     {
-        private readonly MyDbContext _db;
-
-        public UsersController(MyDbContext context)
+        private readonly MyDbContext _db ;
+        private TokenGenerator _tokenGenerator;
+        public UsersController(MyDbContext context, TokenGenerator tokenGenerator)
         {
             _db = context;
+            _tokenGenerator = tokenGenerator;
         }
 
         [HttpGet]
@@ -209,24 +215,21 @@ namespace Asp.netTaskNew.Controllers
 
 
 
-        [HttpPost("login")]
-        public async Task<ActionResult<string>> Login([FromForm] userRequestDTO model)
+        [HttpPost("Login")]
+        public IActionResult Login([FromForm] LoginDTO user)
         {
-            if (!ModelState.IsValid)
+            var dbuser = _db.Users.FirstOrDefault(u => u.Email == user.Email);
+            if (dbuser == null || !PasswordHash.VerifyPasswordHash(user.Password, dbuser.PasswordHash, dbuser.PasswordSalt))
             {
-                return BadRequest(ModelState);
+                return Unauthorized("Login Unauthorized!");
             }
-            var user = await _db.Users.FirstOrDefaultAsync(x => x.Email == model.Email);
-            if (user == null || !PasswordHash.VerifyPasswordHash(model.Password, user.PasswordHash, user.PasswordSalt))
-            {
-                return Unauthorized("Invalid username or password.");
-            }
-            var cartid = await _db.Carts.FirstOrDefaultAsync(l => l.UserId == user.UserId);
+            var roles = _db.UserRoles.Where(u => u.User.UserId == dbuser.UserId).Select(r => r.Role).ToList();
+            var token = _tokenGenerator.GenerateToken(dbuser.Email, roles);
 
-            user.Cart = cartid;
-            // Generate a token or return a success response
-            return Ok(user);
+            return Ok(new { Token = token });
+
         }
+
 
     }
 

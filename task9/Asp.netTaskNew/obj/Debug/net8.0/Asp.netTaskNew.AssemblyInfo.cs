@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Asp.netTaskNew")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1c91b82b0ce33acd4c6c93c816abf3d80e5e7ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af24e4bfa404725ec270b65649954123011246aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("Asp.netTaskNew")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Asp.netTaskNew")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
