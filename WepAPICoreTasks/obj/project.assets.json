@@ -8276,11 +8276,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Orange\\source\\repos\\WepAPICoreTasks\\WepAPICoreTasks.csproj",
+      "projectUniqueName": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\WepAPICoreTasks\\WepAPICoreTasks.csproj",
       "projectName": "WepAPICoreTasks",
-      "projectPath": "C:\\Users\\Orange\\source\\repos\\WepAPICoreTasks\\WepAPICoreTasks.csproj",
+      "projectPath": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\WepAPICoreTasks\\WepAPICoreTasks.csproj",
       "packagesPath": "C:\\Users\\Orange\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Orange\\source\\repos\\WepAPICoreTasks\\obj\\",
+      "outputPath": "C:\\Users\\Orange\\Desktop\\API-CORE-TASKS\\WepAPICoreTasks\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
